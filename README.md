@@ -54,7 +54,6 @@ flutter pub get
 ```bash
 flutter run
 ```
-
 ## Dependencies
 
 - flutter
